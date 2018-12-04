@@ -1,0 +1,43 @@
+
+@font-face {
+  font-family: 'Kongtext';
+  src: url('/font/kongtext.ttf')  format('truetype');
+}
+
+*{
+  font-family: 'Kongtext';
+	background-color: #26292D;
+}
+
+.topic{
+	text-align: center;
+	margin-top: 6%;
+	font-size: 40px;
+	text-shadow: -12px 0 black, 0 12px black, 5px 0 black, 0 -5px black;
+	color: grey;
+}
+
+.button-container{
+	text-align: right;
+}
+
+.leaderboard-link button{
+	width: 220px;
+}
+
+.other-links{
+	position: absolute;
+	left: 32%;
+	bottom: 14%;
+}
+
+
+
+
+
+.controlsManual{
+	background-color: #26292D;
+	color: white;
+	text-align: center;
+}
+
